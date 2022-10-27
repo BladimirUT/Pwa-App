@@ -9,7 +9,7 @@
     "start_url": "./indexApi.html",
     "icons": [
         {
-            "src": "./naranja..png",
+            "src": "./naranja.png",
             "type": "image/png",
             "sizes": "629x640"
         }
