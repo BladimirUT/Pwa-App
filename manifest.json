@@ -1,0 +1,17 @@
+{
+    "name": "Gestion de ventas",
+    "short_name": "Ventas",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "./",
+    "start_url": "./",
+    "icons": [
+        {
+            "src": ".naranja..png",
+            "type": "image/png",
+            "sizes": "629x640"
+        }
+    ]
+}
